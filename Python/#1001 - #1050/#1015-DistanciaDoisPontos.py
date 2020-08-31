@@ -1,4 +1,5 @@
 # Está correto, porem não é aceito na URI.
+#Author: Jocelino F.G
 
 import math
 x1 = float(input())
