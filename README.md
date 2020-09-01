@@ -15,6 +15,7 @@ Meu objetivo é concluir todas as questões da URI Online Jugde em C, Python e S
 
 Obs: Já existe uma pasta com o nome da linguagem de programção escolhida ? blz, menos trabalho.
 É só jogar o arquivo dentro da pasta e fazer o commit.
+
 OBS2: Atualizado a cada 3 dias a partir de 01/09/20
 
 Meu perfil na URI online Judge
