@@ -1,6 +1,5 @@
 ﻿# URI-online-judge-solution
 Contem as respostas em várias linguagens de programação (C,Java, Python e SQL).
-
 #Objetivo
 Meu objetivo é concluir todas as questões da URI Online Jugde em C, Python e SQL.(No futuro em java, javaScript e C++).
 A ideia inicial era fazer todas as questões sozinho, porém sou apenas um, por isso abri espaço 
@@ -20,7 +19,8 @@ Obs: Já existe uma pasta com o nome da linguagem de programção escolhida ? bl
 
 OBS2: Atualizado a cada 3/4 dias a partir de 01/09/20
 
-Perfil dos contribuintes do repositório na URI online Judge
+Meu perfil na URI online Judge
+
 
 Contribuiente I - https://www.urionlinejudge.com.br/judge/pt/profile/279941
 
