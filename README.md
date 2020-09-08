@@ -17,7 +17,7 @@ para que outros também possam contribuir com este...vamos disser assim...projet
 Obs: Já existe uma pasta com o nome da linguagem de programção escolhida ? blz, menos trabalho.
 É só jogar o arquivo dentro da pasta e fazer o commit.
 
-OBS2: Atualizado a cada 3/4 dias a partir de 01/09/20
+OBS2: Atualizado a cada 3/4 dias.
 
 Meu perfil na URI online Judge
 https://www.urionlinejudge.com.br/judge/pt/profile/279941
