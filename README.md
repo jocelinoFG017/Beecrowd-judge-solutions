@@ -19,8 +19,7 @@ Obs: Já existe uma pasta com o nome da linguagem de programção escolhida ? bl
 
 OBS2: Atualizado a cada 3/4 dias.
 
-Meu perfil na URI online Judge
-https://www.urionlinejudge.com.br/judge/pt/profile/279941
+Perfil dos contribuintes do projeto na URI online Judge
 
 Contribuiente I - https://www.urionlinejudge.com.br/judge/pt/profile/279941
 
