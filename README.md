@@ -14,13 +14,13 @@ para que outros também possam contribuir com este...vamos disser assim...projet
    - Faça o commit no seu repositório.
    - Abra um Pull Request para este repositório e aguarde ser verificado.
 
-Obs: Já existe uma pasta com o nome da linguagem de programção escolhida ? blz, menos trabalho.
-É só jogar o arquivo dentro da pasta e fazer o commit.
+Obs: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
+É só jogar o arquivo dentro da pasta.
 
 OBS2: Atualizado entre 4 e 7 dias.
 
-Perfil dos contribuintes do projeto na URI online Judge
+Perfil dos contribuintes do projeto na URI online Judge.
 
 Contribuiente I - https://www.urionlinejudge.com.br/judge/pt/profile/279941
 
-Contribuiente II - <Venha ajudar a comunidade,>
+Contribuiente II - <#>
