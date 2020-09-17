@@ -14,6 +14,10 @@ para que outros também possam contribuir com este...vamos disser assim...projet
    - Faça o commit no seu repositório.
    - Abra um Pull Request para este repositório e aguarde ser verificado.
 
+PS->para mais informacoes sobre como contruibuir com um repositorio talvez esse link ajude.
+link->https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github
+
+
 Obs: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
 É só jogar o arquivo dentro da pasta.
 
