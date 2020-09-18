@@ -1,7 +1,9 @@
 ﻿# URI-online-judge-solution
 Contem as respostas em várias linguagens de programação (C,Java, Python e SQL).
-#Objetivo
-Meu objetivo é concluir todas as questões da URI Online Jugde em C, Python e SQL.(No futuro em java, javaScript e C++).
+
+  - #Objetivo
+
+Meu objetivo é concluir todas as questões em C, Python e SQL disponíveis na plataforma.(No futuro em java, javaScript e C++).
 A ideia inicial era fazer todas as questões sozinho, porém sou apenas um, por isso abri espaço 
 para que outros também possam contribuir com este...vamos disser assim...projeto.
 
@@ -18,7 +20,7 @@ PS->para mais informacoes sobre como contribuir com um repositorio talvez esse l
 link->https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github
 
 
-Obs: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
+OBS: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
 É só jogar o arquivo dentro da pasta.
 
 OBS2: Atualizado entre 4 e 7 dias.
