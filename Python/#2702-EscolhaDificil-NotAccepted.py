@@ -28,3 +28,5 @@ if (Ca >= 0) and (Ca <= 100):
               pp = Pr- Pa
             count = cc+bb+pp
             print(count)
+#funciona perfeitamente mas deu runtime error na plataforma
+#então tive que procurar fazer de outro maneira
