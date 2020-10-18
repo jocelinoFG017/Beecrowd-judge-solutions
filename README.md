@@ -23,7 +23,7 @@ link->https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-
 OBS: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
 É só jogar o arquivo dentro da pasta.
 
-OBS2: Atualizado entre 4 e 7 dias.
+OBS2: Atualizado entre 4-14 dias.
 
 Perfil dos contribuintes do projeto na URI online Judge.
 
