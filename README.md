@@ -7,23 +7,10 @@ Meu objetivo é concluir todas as questões em C, Python e SQL disponíveis na p
 A ideia inicial era fazer todas as questões sozinho, porém sou apenas um, por isso abri espaço 
 para que outros também possam contribuir com este...vamos disser assim...projeto.
 
-  <h1>Como contribuir com o repositório? </h1>
-  SIGA OS PASSOS A SEGUIR
-  
-   - Faça um FORK do projeto
-   - Nomeie o arquivo com o #ID e o nome da questão, seguindo o padrão CamelCase (ex: #1009-SalarioComBonus.C) ou use _ (ex:#1009-Salario_com_bonus.C).
-   - Add o arquivo a sua respectiva linguagem e pasta.
-   - Faça o commit no seu repositório.
-   - Abra um Pull Request para este repositório e aguarde ser verificado.
-
-PS->para mais informacoes sobre como contribuir com um repositorio talvez esse link ajude.
-link->https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github
-
-
-OBS: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
-É só jogar o arquivo dentro da pasta.
-
-OBS2: Atualizado entre 4-14 dias.
+  <h1>Quer contribuir com o repositório? </h1>
+  veja [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blob/master/CONTRIBUTING.md) neste documento.
+ 
+OBS2: Atualizado todo mês.
 
 Perfil dos contribuintes do projeto na URI online Judge.
 
