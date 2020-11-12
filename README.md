@@ -10,7 +10,7 @@ para que outros também possam contribuir com este...vamos disser assim...projet
 
   <h1>Quer contribuir com o repositório? </h1>
   
-  veja [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/CONTRIBUTING.md) 
+  veja este documento [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/CONTRIBUTING.md) para saber como
 
 OBS2: Atualizado todo mês.
 
