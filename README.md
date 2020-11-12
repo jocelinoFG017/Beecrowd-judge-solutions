@@ -1,4 +1,5 @@
-﻿# URI-online-judge-solution
+
+ # URI-online-judge-solution
 Contem as respostas em várias linguagens de programação (C,Java, Python e SQL).
 
   - #Objetivo
@@ -8,8 +9,9 @@ A ideia inicial era fazer todas as questões sozinho, porém sou apenas um, por 
 para que outros também possam contribuir com este...vamos disser assim...projeto.
 
   <h1>Quer contribuir com o repositório? </h1>
-  veja [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blob/master/CONTRIBUTING.md) neste documento.
- 
+  
+  veja [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/CONTRIBUTING.md) 
+
 OBS2: Atualizado todo mês.
 
 Perfil dos contribuintes do projeto na URI online Judge.
