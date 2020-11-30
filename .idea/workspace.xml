@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/#1001 - #1050/#1042-SortSimples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/#1001 - #1050/#1043-Triangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/#1067-NumerosImpares_NotAceppted-ButCorrect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/read.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l1YkvTG63Pm8Qi6nOQUXAWimYW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="" />
+      <created>1606766215573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606766215573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606766406490">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="274" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1606766406490" />
+    <state x="377" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606766563712">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/62.0.1304.768@62.0.1304.768" timestamp="1606766563712" />
+  </component>
+</project>

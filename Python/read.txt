@@ -1,1 +1,2 @@
 add new solutions in python
+new structure of the directory
