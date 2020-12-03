@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1064-PositivosAndMedia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1066-ParesImparesPositivosNegativos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1071-SomaDeImparesConsecutivosI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1072-Intervalo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1073-QuadradoDePares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ActualizationData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ActualizationData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +15,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jocelino &lt;jocelinogg@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l1YkvTG63Pm8Qi6nOQUXAWimYW" />
@@ -97,7 +97,26 @@
       <option name="presentableId" value="Default" />
       <updated>1606766215573</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new .py solutions + pycharm files">
+      <created>1607019855173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607019855173</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new .py solutions + pycharm files">
+      <created>1607020086561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607020086561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new .py solutions + pycharm files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new .py solutions + pycharm files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606766406490">
@@ -108,21 +127,33 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="377" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/62.0.1304.768@62.0.1304.768" timestamp="1606766563712" />
-    <state width="976" height="192" key="GridCell.Tab.0.bottom" timestamp="1607019666772">
+    <state x="184" y="0" width="838" height="768" key="CommitChangelistDialog2" timestamp="1607020084587">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="976" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1607019666772" />
-    <state width="976" height="192" key="GridCell.Tab.0.center" timestamp="1607019666772">
+    <state x="184" y="0" width="838" height="768" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1607020084587" />
+    <state width="976" height="192" key="GridCell.Tab.0.bottom" timestamp="1607019774877">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="976" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1607019666772" />
-    <state width="976" height="192" key="GridCell.Tab.0.left" timestamp="1607019666772">
+    <state width="976" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1607019774877" />
+    <state width="976" height="192" key="GridCell.Tab.0.center" timestamp="1607019774877">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="976" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1607019666772" />
-    <state width="976" height="192" key="GridCell.Tab.0.right" timestamp="1607019666772">
+    <state width="976" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1607019774877" />
+    <state width="976" height="192" key="GridCell.Tab.0.left" timestamp="1607019774877">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="976" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1607019666772" />
+    <state width="976" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1607019774877" />
+    <state width="976" height="192" key="GridCell.Tab.0.right" timestamp="1607019774877">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="976" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1607019774877" />
+    <state x="410" y="193" key="Vcs.Push.Dialog.v2" timestamp="1607020090549">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="193" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1607020090549" />
+    <state x="531" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607020198292">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="531" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1607020198292" />
   </component>
 </project>
