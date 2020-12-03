@@ -1,5 +1,5 @@
  #### [voltar](https://github.com/jocelinoFG017/URI-online-judge-solutions/edit/master/README.md)
- ## Como contribuir com o repositório
+ ## Como contribuir com o repositório ?
  SIGA OS PASSOS A SEGUIR
   
    - Faça um FORK do projeto
@@ -13,4 +13,4 @@ link->https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-
 
 
 OBS: Já existe uma pasta com o nome da linguagem de programação escolhida ? blz, menos trabalho.
-É só jogar o arquivo dentro da pasta.
+É só jogar o arquivo dentro dessa pasta.
