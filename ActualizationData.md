@@ -1,10 +1,11 @@
 Last Actualization:
-3/12/2020
+15/12/2020
 
 Next Actualization Programed:
-4/12/2020
+20/12/2020
 
 Actualization Log:
+15/12/2020
 3/12/2020
 1/12/2020
 30/11/2020
