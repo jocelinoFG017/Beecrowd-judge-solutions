@@ -18,9 +18,10 @@ Link do Perfil -> https://www.urionlinejudge.com.br/judge/pt/profile/279941
 
 ## Meu Ranking na plataforma URI Online Judge
   
-    :2nd_place_medal: 2º Lugar no rank institucional IFFAR -> Instituto Federal Farroupilha
-  
-    - 14.332º Lugar no rank geral da plataforma.
+ - :2nd_place_medal:  2º Lugar no rank institucional IFFAR -> Instituto Federal Farroupilha
+
+
+ - 14.332º Lugar no rank geral da plataforma.
 
   <h2>Quer contribuir com este repositório? </h2>
   
