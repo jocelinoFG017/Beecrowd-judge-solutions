@@ -19,3 +19,7 @@ Perfil dos contribuintes do projeto na URI online Judge.
 Contribuiente I - https://www.urionlinejudge.com.br/judge/pt/profile/279941
 
 Contribuiente II - <#Venha me ajudar !#>
+
+###  Meu Ranking na plataforma URI Online Judge
+    - 2º Lugar no rank institucional IFFAR -> Instituto Federal Farroupilha
+    - 15.164º Lugar no rank geral da plataforma.
