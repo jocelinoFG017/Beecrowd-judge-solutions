@@ -3,7 +3,7 @@
 Contem as respostas/soluções dos problemas em várias linguagens de programação (C,Java, Python e SQL).
 
   - Objetivos deste repositório [leia esse arquivo](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/Objetivos.md)
-  - README English version [here](https://github.com/jocelinoFG017/URI-online-judge-solutions/)
+  - README English version [here](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/ReadmeENGLISH.md)
 
 ## Linguagens Utilizadas 
     - C
@@ -21,7 +21,7 @@ Link do Perfil -> https://www.urionlinejudge.com.br/judge/pt/profile/279941
  - :2nd_place_medal:  2º Lugar no rank institucional IFFAR -> Instituto Federal Farroupilha
 
 
- - 14.332º Lugar no rank geral da plataforma.
+ - 13.486º Lugar no rank geral da plataforma.
 
   <h2>Quer contribuir com este repositório? </h2>
   

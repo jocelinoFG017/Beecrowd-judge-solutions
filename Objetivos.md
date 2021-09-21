@@ -3,7 +3,7 @@
 
 > ### Objetivos Secundários
 >> - <del> Alcançar o top 15000 no rank </del> - Concluido <br>
->>> - Alcançar o top 14000 no rank <br>
+>> - <del> Alcançar o top 14000 no rank </del> - Concluido <br>
 >>> - Alcançar o top 13000 no rank <br>
 >>> - Alcançar o top 12000 no rank <br>
 >>> - Alcançar o top 11000 no rank <br>
