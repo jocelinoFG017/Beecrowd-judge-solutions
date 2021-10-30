@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1060-NumerosPositivos.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1064-PositivosAndMedia.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1066-ParesImparesPositivosNegativos.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1067-NumerosImpares.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1073-QuadradoDePares.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1074-ParOuImpar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1075-Resto2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/C/#1051 - #1100/#1080-MaiorAndPosicao.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Java/#1078-Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1074-ParOuImpar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1075-Resto2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1079-MediasPonderadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1080-MaiorAndPosicao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ActualizationData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ActualizationData.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Java/add files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>

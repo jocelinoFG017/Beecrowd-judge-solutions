@@ -1,6 +1,11 @@
 
- # URI-online-judge-solution
-Contem as respostas/soluções dos problemas em várias linguagens de programação (C,Java, Python e SQL).
+ # Beecrowd
+
+ <img src="foto/bee.png" width="220" height="150"> 
+
+ #### <b> :warning: Atenção - A URI online judge agora é chamada de Beecrowd.</b> :warning:
+<br>
+Neste repositório está contindo as respostas/soluções dos problemas em várias linguagens de programação (C,Java, Python e SQL).
 
   - Objetivos deste repositório [leia esse arquivo](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/Objetivos.md)
   - README English version [here](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/ReadmeENGLISH.md)
@@ -11,12 +16,12 @@ Contem as respostas/soluções dos problemas em várias linguagens de programaç
     - Python
     - SQL
 
-##  Meu Perfil na URI online Judge.
-Link do Perfil -> https://www.urionlinejudge.com.br/judge/pt/profile/279941
+##  Meu Perfil na Beecrowd
+Link do Perfil -> https://www.beecrowd.com.br/judge/pt/profile/279941
 <br>
 <br>
 
-## Meu Ranking na plataforma URI Online Judge
+## Meu Ranking 
   
  - :2nd_place_medal:  2º Lugar no rank institucional IFFAR -> Instituto Federal Farroupilha
 
