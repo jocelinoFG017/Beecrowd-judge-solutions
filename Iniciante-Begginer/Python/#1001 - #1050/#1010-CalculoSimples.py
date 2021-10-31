@@ -1,4 +1,4 @@
-#Author: Jocelino F.G
+# Author: Jocelino F.G
 
 a, b = input().split(), input().split()
 q1 = int(a[1])

@@ -1,4 +1,4 @@
-#Author: Jocelino F.G
+# Author: Jocelino F.G
 nome = input()
 salario = float(input())
 vendas = float(input())

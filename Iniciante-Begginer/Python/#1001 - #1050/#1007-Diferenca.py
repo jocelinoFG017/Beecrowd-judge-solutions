@@ -1,4 +1,4 @@
-#Author: Jocelino F.G
+# Author: Jocelino F.G
 A = float(input())
 B = float(input())
 C = float(input())

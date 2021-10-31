@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="">
+    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="add new .py solutions + pycharm files">
+      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1173-PreenchimentoDeVetorI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1177-PreenchimentoDeVetorII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1178-PreenchimentoDeVetorIII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/URI-online-judge-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/URI-online-judge-solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1004-ProdutoSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1004-ProdutoSimples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1005-Media1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1005-Media1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1006-Media2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1006-Media2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1007-Diferenca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1007-Diferenca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1008-Salario.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1008-Salario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1009-SalarioComBonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1009-SalarioComBonus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1010-CalculoSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1010-CalculoSimples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1042-SortSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1042-SortSimples-NA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1043-Triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1043-Triangulo-NA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1067-NumerosImpares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1067-NumerosImpares-NA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#2702-EscolhaDificil-NotAccepted.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#2702-EscolhaDificil-NA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadmeENGLISH.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadmeENGLISH.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,52 +55,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Python.#1080-MaiorAndPosicao">
-    <configuration name="#1072-Intervalo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="URI-online-judge-solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1072-Intervalo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="#1074-ParOuImpar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="URI-online-judge-solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1051 - #1100/#1074-ParOuImpar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Compaq\OneDrive\Área de Trabalho\GitHubRepositories\Beecrowd-judge-solutions\Iniciante-Begginer\Python\Corretos e Não Aceitos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.#1177-PreenchimentoDeVetorII">
     <configuration name="#1075-Resto2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="URI-online-judge-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,13 +127,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="#1173-PreenchimentoDeVetorI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="URI-online-judge-solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1173-PreenchimentoDeVetorI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#1177-PreenchimentoDeVetorII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="URI-online-judge-solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1177-PreenchimentoDeVetorII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.#1177-PreenchimentoDeVetorII" />
+        <item itemvalue="Python.#1173-PreenchimentoDeVetorI" />
         <item itemvalue="Python.#1080-MaiorAndPosicao" />
         <item itemvalue="Python.#1079-MediasPonderadas" />
         <item itemvalue="Python.#1075-Resto2" />
-        <item itemvalue="Python.#1074-ParOuImpar" />
-        <item itemvalue="Python.#1072-Intervalo2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,66 +205,19 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new .py solutions + pycharm files" />
     <option name="LAST_COMMIT_MESSAGE" value="add new .py solutions + pycharm files" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="274" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606766406490">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="274" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1606766406490" />
-    <state x="386" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608049113441">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="386" y="185" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1608049113441" />
-    <state x="377" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606766563712">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="377" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/62.0.1304.768@62.0.1304.768" timestamp="1606766563712" />
-    <state x="184" y="0" width="838" height="768" key="CommitChangelistDialog2" timestamp="1607020084587">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="184" y="0" width="838" height="768" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1607020084587" />
-    <state width="1283" height="196" key="GridCell.Tab.0.bottom" timestamp="1608052937510">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="196" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1608052937510" />
-    <state width="1283" height="196" key="GridCell.Tab.0.center" timestamp="1608052937509">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="196" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1608052937509" />
-    <state width="1283" height="196" key="GridCell.Tab.0.left" timestamp="1608052937509">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="196" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1608052937509" />
-    <state width="1283" height="196" key="GridCell.Tab.0.right" timestamp="1608052937510">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="196" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1608052937510" />
-    <state width="653" height="235" key="GridCell.Tab.1.bottom" timestamp="1607888656954">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="653" height="235" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1607888656954" />
-    <state width="653" height="235" key="GridCell.Tab.1.center" timestamp="1607888656954">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="653" height="235" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1607888656954" />
-    <state width="653" height="235" key="GridCell.Tab.1.left" timestamp="1607888656954">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="653" height="235" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1607888656954" />
-    <state width="653" height="235" key="GridCell.Tab.1.right" timestamp="1607888656954">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="653" height="235" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1607888656954" />
-    <state x="410" y="193" key="Vcs.Push.Dialog.v2" timestamp="1607020090549">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="410" y="193" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1607020090549" />
-    <state x="531" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607020198292">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="531" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1607020198292" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-#Author: Jocelino F.G
+# Author: Jocelino F.G
 numero = int(input())
 hr_trab = int(input())
 vlr_hr = float(input())

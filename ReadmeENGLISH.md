@@ -1,11 +1,11 @@
 
- # URI-online-judge-solution
+ # Beecrowd
 
  Contains the answers/solutions of the problems in many programming languages (C, Java, Python and SQL).
  
 
   - Repository Objectives [Read this file](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/Objetivos.md)
-  - README Portuguese version [here](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/ReadmeENGLISH.md)
+  - README Versão pt-br [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/ReadmeENGLISH.md)
 
 ## Used Languages 
     - C
@@ -13,12 +13,12 @@
     - Python
     - SQL
 
-##  My Profile in URI online Judge.
+##  My Profile in Beecrowd
 Profile Link -> https://www.urionlinejudge.com.br/judge/pt/profile/279941
 <br>
 <br>
 
-## My Ranking in URI Online Judge platform
+## My Ranking in Beecrowd
   
  - :2nd_place_medal:  2º Place in institutional rank IFFAR -> Instituto Federal Farroupilha
 
