@@ -37,4 +37,4 @@ Link do Perfil -> https://www.beecrowd.com.br/judge/pt/profile/279941
   <h2>Quer contribuir com este repositório? </h2>
   <p>Infelizmente as contribuições para este repositório foram retiradas, não é mais possível as demais pessoas contribuirem.</p>
    <h3> Motivo </h3>
-    Não houve nenhum contribuidor durante 2 anos deste projeto, então agora ele é individual, como sempre foi desde o começos já que, ninguém além do próprio autor se fez presente.
+    Não houve nenhum contribuidor durante 2 anos deste projeto, então agora ele é individual, como sempre foi desde o começo já que, ninguém além do próprio autor se fez presente.
