@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="add new .py solutions + pycharm files">
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1173-PreenchimentoDeVetorI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1177-PreenchimentoDeVetorII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1151 - # 1200/#1178-PreenchimentoDeVetorIII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/URI-online-judge-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/URI-online-judge-solutions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1004-ProdutoSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1004-ProdutoSimples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1005-Media1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1005-Media1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1006-Media2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1006-Media2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1007-Diferenca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1007-Diferenca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1008-Salario.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1008-Salario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1009-SalarioComBonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1009-SalarioComBonus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1010-CalculoSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/#1001 - #1050/#1010-CalculoSimples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1042-SortSimples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1042-SortSimples-NA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1043-Triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1043-Triangulo-NA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1067-NumerosImpares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#1067-NumerosImpares-NA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#2702-EscolhaDificil-NotAccepted.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iniciante-Begginer/Python/Corretos e Não Aceitos/#2702-EscolhaDificil-NA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadmeENGLISH.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadmeENGLISH.md" afterDir="false" />
-    </list>
+    <list default="true" id="b9c3bdf9-c6a9-49a5-9946-13b6465c324b" name="Default Changelist" comment="add new .py solutions + pycharm files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,6 +196,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new .py solutions + pycharm files" />

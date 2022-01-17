@@ -21,7 +21,6 @@ Este repositório foi criado com a intenção de divulgar as soluções feitas n
 ##  Meu Perfil na Beecrowd
 Link do Perfil -> https://www.beecrowd.com.br/judge/pt/profile/279941
 <br>
-<br>
 
 ## Meu Ranking na Beecrowd
   
@@ -30,6 +29,12 @@ Link do Perfil -> https://www.beecrowd.com.br/judge/pt/profile/279941
 
  - 13.316º Lugar no rank geral da plataforma.
 
+
+## Meus Resultados 
+ <img src="foto/2020.jpg" width="210" height="220"> <img src="foto/2021.png" width="210" height="220"> 
+
+
   <h2>Quer contribuir com este repositório? </h2>
-  
-  Veja este documento [aqui](https://github.com/jocelinoFG017/URI-online-judge-solutions/blame/master/CONTRIBUTING.md) para saber como.
+  <p>Infelizmente as contribuições para este repositório foram retiradas, não é mais possível as demais pessoas contribuirem.</p>
+   <h3> Motivo </h3>
+    Não houve nenhum contribuidor durante 2 anos deste projeto, então agora ele é individual, como sempre foi desde o começos já que, ninguém além do próprio autor se fez presente.
